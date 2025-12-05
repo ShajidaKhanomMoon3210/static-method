@@ -10,9 +10,10 @@ public class MathUtility {
 public class Test {
      public static void main(String[]args)
     {
-        int sum=MathUtilityy.add(10,20);
+        int sum=MathUtility.add(10,20);
         System.out.println("The Sum: " +sum);
     }
 }
+
 
 
