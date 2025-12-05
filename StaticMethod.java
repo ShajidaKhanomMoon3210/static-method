@@ -2,7 +2,7 @@ Static Method
 
 package StaticMethod;
 
-public class MathUtilityy {
+public class MathUtility {
     public static int add(int a, int b) {
         return a + b;
     }
@@ -14,4 +14,5 @@ public class Test {
         System.out.println("The Sum: " +sum);
     }
 }
+
 
