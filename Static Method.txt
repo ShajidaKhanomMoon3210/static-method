@@ -1,0 +1,17 @@
+Static Method
+
+package StaticMethod;
+
+public class MathUtilityy {
+    public static int add(int a, int b) {
+        return a + b;
+    }
+}
+public class Test {
+     public static void main(String[]args)
+    {
+        int sum=MathUtilityy.add(10,20);
+        System.out.println("The Sum: " +sum);
+    }
+}
+
